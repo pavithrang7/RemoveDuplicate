@@ -3,7 +3,7 @@ Remove Duplicate presents in the folder
 
 Usage :
 
-RemoveDuplicate.exe "Path\to_remove\DupilcateFolder"
+    RemoveDuplicate.exe "Path\to_remove\DupilcateFolder"
 
 Recommended :
 
