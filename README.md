@@ -7,7 +7,7 @@ Usage :
 
 Recommended :
 
-    When you have files with different filename that contains same SHA, use RemoveDupilcate to delete the multiple occurence of the files.
+  When you have files with different filename that contains same SHA, use RemoveDupilcate to delete the multiple occurence of the files.
     
 Prerequisite :
 
